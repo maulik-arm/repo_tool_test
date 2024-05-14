@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-  <remote name="tfo"    fetch="https://git.trustedfirmware.org"  sync-j="4" />
+  <remote name="tfo"    fetch="https://git.trustedfirmware.org"  sync-j="4" revision="main" />
   <project path="src/rss"  name="TF-M/trusted-firmware-m.git"  revision="8ed3af7eb98150ae391394e0ab1258ccf7f17b23" remote="tfo" />
 
 </manifest>
